@@ -1,0 +1,6 @@
+kafka-python
+flask
+streamlit
+pandas
+scikit-learn
+plotly
